@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+It is created to explore react as web-development.
+Here I tried to demonstrate React component, states, CRUD using json-server and basics of routing.
+
 ## Available Scripts
 
 In the project directory, you can run:
